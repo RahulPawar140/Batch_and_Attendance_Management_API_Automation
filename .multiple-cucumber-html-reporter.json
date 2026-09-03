@@ -1,0 +1,8 @@
+{
+    "jsonDir": "./reports",
+    "reportPath": "./reports/cucumber-html-report",
+    "pageTitle": "Batch & Attendance API Automation",
+    "reportName": "Batch & Attendance API Automation Report",
+    "displayDuration": true,
+    "displayReportTime": true
+}
